@@ -1,0 +1,3 @@
+// 16 x 16
+const unsigned char wi_wind_253deg_16x16[] PROGMEM = {
+  0xff, 0xff, 0xff, 0xff, 0xfc,
